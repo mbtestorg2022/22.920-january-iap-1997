@@ -17,13 +17,90 @@ The course provides an introduction to NMR for those who wish to have a backgrou
 Calendar
 --------
 
-| Ses # | Topics |
-| --- | --- |
-| 1 | General Introduction to Magnetic Resonance |
-| 2 | Bloch's equation; Rotating Reference Frame; RF Pulses |
-| 3 | Magnetic Field Gradients, k-space Diffusion |
-| 4 | Spin Echoes; Hahn Echo; 90 - 90 echo; Stimulated Echo |
-| 5 | NMR Imaging; 2D Images; Slice Selection |
-| 6 | More Imaging; Spin Echo vs Gradient Echo; Resolution; Flow |
-| 7 | Spectroscopy; Chemical shifts; Couplings; Assignments |
-| 8 | 2D Spectroscopy, and the COSY Experiment
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Ses #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+General Introduction to Magnetic Resonance
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Bloch's equation; Rotating Reference Frame; RF Pulses
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic Field Gradients, k-space Diffusion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Spin Echoes; Hahn Echo; 90 - 90 echo; Stimulated Echo
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+NMR Imaging; 2D Images; Slice Selection
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+More Imaging; Spin Echo vs Gradient Echo; Resolution; Flow
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Spectroscopy; Chemical shifts; Couplings; Assignments
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+2D Spectroscopy, and the COSY Experiment
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
